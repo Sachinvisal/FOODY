@@ -5,7 +5,10 @@ function App() {
 
 
   return (
- <h1>Hellow</h1>
+    <>
+    <h1 className='bg-green font-primary'>Hello Sachin</h1>
+    </>
+ 
   )
 }
 

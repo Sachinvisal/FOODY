@@ -9,6 +9,9 @@ module.exports = {
         "secondary" : "#555",
         "primaryBG" : "#FCFCFC",
 
+      },
+      fontFamily:{
+        "primary":['Inter','sans-serif']
       }
     },
   },
